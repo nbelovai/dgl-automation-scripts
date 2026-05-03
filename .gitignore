@@ -1,0 +1,22 @@
+# Секреты — никогда не коммитим
+*.json
+credentials.json
+token.pickle
+*.env
+
+# Питоновские временные файлы
+__pycache__/
+*.pyc
+*.pyo
+
+# Виртуальные окружения
+venv/
+.venv/
+
+# Системные файлы Windows
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

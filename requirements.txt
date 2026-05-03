@@ -1,0 +1,8 @@
+beautifulsoup4
+curl-cffi
+Pillow
+requests
+gspread
+google-auth
+deep-translator
+lxml
